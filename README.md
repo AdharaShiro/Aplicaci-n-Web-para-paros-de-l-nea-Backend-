@@ -6,6 +6,9 @@
 
 ![Captura de pantalla 2024-08-08 110011](https://github.com/user-attachments/assets/7cc924a8-684d-40a8-b6d2-1550c35cdba5)
 
+![Captura de pantalla 2024-08-01 095151](https://github.com/user-attachments/assets/13a4a805-5f55-4055-882f-fdd78d45d7e4)
+
+
 
 ## Clonar repositorio 
   
@@ -31,6 +34,9 @@ npm install axios <--- para solocitudes HTTP
 
 Ejecutar  el proyecto 
 npm start
+vista 
+
+![image](https://github.com/user-attachments/assets/c45c3fd0-a846-4bf6-a3ae-3ac4e5bbe23e)
 
 
 
