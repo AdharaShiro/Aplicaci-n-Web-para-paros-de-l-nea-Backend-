@@ -1,0 +1,32 @@
+.custom-navbar {
+    background-color: #0097B2; 
+}
+  
+.custom-navbar .navbar-brand, 
+.custom-navbar .nav-link, 
+.custom-navbar .nav-dropdown {
+    color: white; 
+}
+
+.custom-navbar .nav-link:hover, 
+.custom-navbar .nav-dropdown:hover {
+    color: #e0e0e0; 
+}
+
+/* Agregar padding al botón */
+.custom-navbar .btn {
+    padding: 5px 10px; 
+    margin-bottom: 50px;
+}
+.background-image {
+    background-image: url('https://i.imgur.com/K7RomUV.png'); /* Asegúrate de colocar la imagen en el directorio correcto */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh; 
+    width: 100%;
+    z-index: -1;
+  }

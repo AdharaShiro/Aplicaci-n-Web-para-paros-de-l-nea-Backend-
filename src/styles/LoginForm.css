@@ -1,0 +1,60 @@
+/* LoginForm.css */
+
+body {
+    background-color: #f8f9fa; /* Color de fondo ligero */
+  }
+  
+  .card {
+    border-radius: 15px; /* Bordes redondeados */
+  }
+  
+  .card-body {
+    background-color: #ffffff; /* Fondo blanco para el formulario */
+  }
+  
+  h1, h2, h3 {
+    color: #333333; /* Color de texto más oscuro */
+  }
+  
+  form {
+    max-width: 100%; /* Asegura que el formulario no exceda el ancho del contenedor */
+  }
+  
+  input::placeholder {
+    color: #aaaaaa; /* Color de los placeholders */
+  }
+  
+  .btn-outline-info {
+    transition: background-color 0.3s, color 0.3s; /* Suaviza la transición de los colores */
+  }
+  
+  img {
+    border-radius: 15px; /* Bordes redondeados para la imagen */
+    margin-left: -30px; /* Ajusta este valor para mover la imagen a la izquierda */
+  }
+  
+  /* Estilo personalizado para los campos del formulario */
+  .form-control-custom {
+    border: 2px solid #cccccc; /* Borde de color gris tenue */
+    border-radius: 25px; /* Bordes ovalados */
+    padding: 10px; /* Espaciado interno */
+    font-size: 1rem; /* Tamaño de fuente */
+    color: #333333; /* Color de texto */
+    background-color: #f9f9f9; /* Color de fondo gris tenue */
+    transition: border-color 0.3s; /* Suaviza la transición del color del borde */
+    width: 100%; /* Asegura que el campo tome el 100% del ancho disponible */
+    margin: 0 auto; /* Centra el campo horizontalmente */
+  }
+  
+  .form-control-custom:focus {
+    border-color: #0097B2; /* Color del borde cuando el campo está enfocado */
+    outline: none; /* Elimina el borde predeterminado */
+  }
+  
+  /* Asegura que la imagen y el formulario tengan la misma altura */
+  .custom-img {
+    width: 100%; /* Ajusta la imagen al 100% del ancho del contenedor */
+    height: 100%; /* Ajusta la imagen al 100% del alto del contenedor */
+    object-fit: cover; /* Mantiene la relación de aspecto */
+  }
+ 
