@@ -1,18 +1,63 @@
-# Getting Started with Create React App
+# Aplicación Web para analisis de paros de línea y producción 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Captura de pantalla 2024-08-08 110108](https://github.com/user-attachments/assets/8ef79794-8772-475d-b796-f0e4dd6281e4)
 
-## Available Scripts
+![image](https://github.com/user-attachments/assets/d3962f11-6dbd-4b56-9830-d079b60767d0)
 
-In the project directory, you can run:
+![Captura de pantalla 2024-08-08 110011](https://github.com/user-attachments/assets/7cc924a8-684d-40a8-b6d2-1550c35cdba5)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Clonar repositorio 
+  
+git clone https://github.com/tu-usuario/nombre-repositorio.git
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Despues para navegar directamente del directorio de proyecto 
+CD Produccion 
+
+## `Instalacion de dependencias `
+
+Instalar Node.js https://nodejs.org/en/download/package-manager 
+instalar NPM  https://github.com/npm/cli/releases/tag/v10.8.1
+
+Comandos para instalar las dependencias 
+npm install
+npm install bootstrap
+npm install react-bootstrap
+
+npm install @mui/material @emotion/react @emotion/styled
+npm install react-router-dom 
+
+npm install axios <--- para solocitudes HTTP 
+
+Ejecutar  el proyecto 
+npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### `npm test`
 
